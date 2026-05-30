@@ -1,0 +1,12 @@
+{
+  "name": "typescript-jsdoc-generator",
+  "description": "Generates complete JSDoc comments for TypeScript functions, classes, and interfaces.",
+  "category": "coding-and-development",
+  "compatible_with": ["claude-code", "cursor", "codex", "openclaw", "gemini-cli"],
+  "author": "greenskies196-png",
+  "version": "1.0.0",
+  "verified": true,
+  "tags": ["typescript", "jsdoc", "documentation", "comments", "typedoc"],
+  "dependencies": [],
+  "tested_on": ["claude-code", "openclaw"]
+}
