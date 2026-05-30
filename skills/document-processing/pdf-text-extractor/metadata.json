@@ -1,0 +1,12 @@
+{
+  "name": "pdf-text-extractor",
+  "description": "Extracts text, tables, and metadata from PDFs including multi-column layouts and scanned documents.",
+  "category": "document-processing",
+  "compatible_with": ["claude-code", "cursor", "codex", "openclaw", "gemini-cli"],
+  "author": "greenskies196-png",
+  "version": "1.0.0",
+  "verified": true,
+  "tags": ["pdf", "extraction", "tables", "ocr", "pdfplumber", "document-parsing"],
+  "dependencies": ["pdfplumber", "pdf2image", "pytesseract", "Pillow"],
+  "tested_on": ["claude-code", "openclaw"]
+}
