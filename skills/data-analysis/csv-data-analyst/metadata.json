@@ -1,0 +1,12 @@
+{
+  "name": "csv-data-analyst",
+  "description": "Analyses CSV files with automatic type detection, missing value handling, outlier detection, and plain-language statistical summaries.",
+  "category": "data-analysis",
+  "compatible_with": ["claude-code", "cursor", "codex", "openclaw", "gemini-cli"],
+  "author": "greenskies196-png",
+  "version": "1.0.0",
+  "verified": true,
+  "tags": ["csv", "pandas", "data-analysis", "statistics", "data-quality", "exploratory-analysis"],
+  "dependencies": ["pandas", "numpy"],
+  "tested_on": ["claude-code", "openclaw"]
+}
