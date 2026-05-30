@@ -1,0 +1,12 @@
+{
+  "name": "code-reviewer",
+  "description": "Reviews code for bugs, security vulnerabilities, and style violations with severity-rated findings.",
+  "category": "coding-and-development",
+  "compatible_with": ["claude-code", "cursor", "codex", "openclaw", "gemini-cli"],
+  "author": "greenskies196-png",
+  "version": "1.0.0",
+  "verified": true,
+  "tags": ["code-review", "security", "bugs", "quality", "pull-request"],
+  "dependencies": [],
+  "tested_on": ["claude-code", "openclaw"]
+}
