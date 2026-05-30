@@ -1,0 +1,12 @@
+{
+  "name": "docx-professional-writer",
+  "description": "Creates professionally formatted Word documents with correct heading styles, tables, and layout using python-docx.",
+  "category": "document-processing",
+  "compatible_with": ["claude-code", "cursor", "codex", "openclaw", "gemini-cli"],
+  "author": "greenskies196-png",
+  "version": "1.0.0",
+  "verified": true,
+  "tags": ["word", "docx", "python-docx", "document-generation", "reports", "microsoft-word"],
+  "dependencies": ["python-docx"],
+  "tested_on": ["claude-code", "openclaw"]
+}
