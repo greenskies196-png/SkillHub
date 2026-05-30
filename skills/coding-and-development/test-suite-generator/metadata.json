@@ -1,0 +1,12 @@
+{
+  "name": "test-suite-generator",
+  "description": "Generates comprehensive unit and integration tests covering happy path, edge cases, and error conditions.",
+  "category": "coding-and-development",
+  "compatible_with": ["claude-code", "cursor", "codex", "openclaw", "gemini-cli"],
+  "author": "greenskies196-png",
+  "version": "1.0.0",
+  "verified": true,
+  "tags": ["testing", "unit-tests", "jest", "pytest", "vitest", "tdd", "coverage"],
+  "dependencies": [],
+  "tested_on": ["claude-code", "openclaw"]
+}
