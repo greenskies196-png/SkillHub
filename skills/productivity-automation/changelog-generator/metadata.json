@@ -1,0 +1,12 @@
+{
+  "name": "changelog-generator",
+  "description": "Generates a structured CHANGELOG.md from Git commit history using the Keep a Changelog format.",
+  "category": "productivity-automation",
+  "compatible_with": ["claude-code", "cursor", "codex", "openclaw", "gemini-cli"],
+  "author": "greenskies196-png",
+  "version": "1.0.0",
+  "verified": true,
+  "tags": ["changelog", "git", "release-notes", "conventional-commits", "versioning", "documentation"],
+  "dependencies": [],
+  "tested_on": ["claude-code", "openclaw"]
+}
