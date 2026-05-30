@@ -1,0 +1,12 @@
+{
+  "name": "session-learning-tracker",
+  "description": "Captures errors, corrections, and discoveries during a session and writes them to LEARNINGS.md for future sessions.",
+  "category": "agent-memory-and-context",
+  "compatible_with": ["claude-code", "cursor", "codex", "openclaw", "gemini-cli"],
+  "author": "greenskies196-png",
+  "version": "1.0.0",
+  "verified": true,
+  "tags": ["memory", "context", "learnings", "persistence", "session", "corrections"],
+  "dependencies": [],
+  "tested_on": ["claude-code", "openclaw"]
+}
